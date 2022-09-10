@@ -1,3 +1,4 @@
+import sys ; sys.path.append("./src")
 from src.selenium_sutom import SeleniumSutom
 
 # Définition des chemins

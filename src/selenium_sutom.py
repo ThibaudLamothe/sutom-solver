@@ -5,9 +5,6 @@ import pyperclip
 from logzero import logger as lg
 
 # Local files
-import sys
-
-sys.path.append("/Users/thibaudlamothe/Documents/dev/projets/sutom/src")
 import tk as tk
 import solve_suttom as ss
 import word_detection as wd
