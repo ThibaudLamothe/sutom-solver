@@ -1,0 +1,10 @@
+# Python default
+__pycache__
+*.pyc
+.DS_Store
+
+# Project
+explo
+*.frgut.txt
+chromedriver
+local.py
